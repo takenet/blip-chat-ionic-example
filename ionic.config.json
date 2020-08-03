@@ -1,0 +1,7 @@
+{
+  "name": "blip-chat-ionic-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
