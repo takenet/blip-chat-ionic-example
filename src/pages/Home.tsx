@@ -13,7 +13,7 @@ const Home: React.FC = () => {
   useEffect(() => {
     new BlipChat()
       .withAppKey(
-        "d2hhdHNhcHBib3Q2OmQ2MGE0YWZmLTE4YWEtNDYxZi1hMDRmLWRlZmYxNDczZDAzYg=="
+        "YOUR-APP-KEY"
       )
       .withButton({ color: "#7895fd" })
       .build();
